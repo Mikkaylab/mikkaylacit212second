@@ -1,0 +1,49 @@
+*{
+   margin: 0;
+}
+body
+{
+    background-color: rebeccapurple;
+}
+
+h1{
+    color: white;
+    font-size: 400px;
+}
+h2{
+    color:orange;
+    font-size: 800px;
+}
+
+p{
+    width: 250px;
+    text-align: center;
+}
+
+div{
+    background-color: aqua;
+    border: solid 4px black;
+    margin-top: 8px;
+    margin-left: 20px;
+    color: navajowhite;
+}
+
+#box1{
+    width: 100px;
+    height: 100px;
+    color: red;
+}
+
+#box2{
+    width: 300px;
+    height: 400px;
+    color: blue;
+    border: solid 2px red;
+}
+
+#box3{
+    width: 250px;
+    height: 600px;
+    color: green;
+    border: 6px;
+}
